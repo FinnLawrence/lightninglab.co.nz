@@ -1,0 +1,8 @@
+# Site settings
+title: Lightning Lab | New Zealand&#39;s Business Accelerator
+email: finn.lawrence@lightninglab.co.nz
+description: > # this means to ignore newlines until "baseurl:"
+  Lightning Lab is a four-month, mentor-intensive, business acceleration programme based on the best of breed accelerator model developed by TechStars in the US.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://lightninglab.co.nz" # the base hostname & protocol for your site
+twitter_username: lightninglab

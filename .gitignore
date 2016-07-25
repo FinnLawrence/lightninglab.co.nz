@@ -8,8 +8,10 @@ Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
-# Site folder for Jekyll
-_site/
+# Jekyll
+_site
+.sass-cache
+.jekyll-metadata
 
 # Windows Installer files
 *.cab
